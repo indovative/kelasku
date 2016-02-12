@@ -7,4 +7,4 @@
 <tr>
 <td>sedikit bicara</td><td>banyak kreasi, ,</td>
 </tr>
-</table
+</table>
